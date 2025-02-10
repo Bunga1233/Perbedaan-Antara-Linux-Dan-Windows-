@@ -38,7 +38,7 @@ Linux: Linux mendukung berbagai perangkat keras, tetapi terkadang memerlukan kon
 
 Windows: Windows memiliki dukungan hardware yang lebih luas dan driver yang lebih mudah diinstal.
 
-# . Komunitas dan Dukungan
+# 7. Komunitas dan Dukungan
    
 Linux: Linux memiliki komunitas yang besar dan aktif. Dukungan biasanya berasal dari forum, dokumentasi, dan kontribusi pengguna.
 
